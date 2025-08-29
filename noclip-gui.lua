@@ -1,5 +1,5 @@
--- Enhanced NoClip GUI with RGB Menu
--- Created with improved UI and additional features
+-- NoClip Menu By tux 
+-- This is the beta version our team is still working on a better version
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
@@ -362,8 +362,9 @@ local function setup()
         end
     end)
     
-    print("Enhanced NoClip GUI loaded successfully!")
+    print("Noclip GUI by Tux Successfly Loaded!")
 end
 
 -- Initialize
 setup()
+
